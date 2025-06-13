@@ -27,7 +27,7 @@ def fetch_and_save_glucose():
     }
     
     # Ensure the data-exports directory exists
-    os.makedirs('../data-exports', exist_ok=True)
+    os.makedirs('./data-exports', exist_ok=True)
     
     # Save to JSON file
     output_path = os.path.join('../data-exports', 'latest.json')
