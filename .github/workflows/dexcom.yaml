@@ -34,10 +34,8 @@ jobs:
 
       - name: Commit changes
         shell: bash
-        run: |
-          git add -A
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "Automated data run"
-            git push
+      - name: Commit changes
+        run: >
+          git add -A &&
+          (git diff --cached --quiet || (git commit -m "Automated data run" && git push))
+
