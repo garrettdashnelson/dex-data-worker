@@ -27,16 +27,11 @@ jobs:
       - name: Run Dexcom script
         run: python3 bin/fetch_dexcom.py
 
-      - name: Configure Git
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
-      - name: Commit changes
-        run: |
-          git add -A
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "Automated data run"
+      - name: Commit and push if it changed
+          run: |-
+            git config user.name "Automated"
+            git config user.email "actions@users.noreply.github.com"
+            git add -A
+            timestamp=$(date -u)
+            git commit -m "Latest data: ${timestamp}" || exit 0
             git push
