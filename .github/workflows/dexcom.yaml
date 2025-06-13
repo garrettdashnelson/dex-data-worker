@@ -33,6 +33,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: Commit changes
+        shell: bash
         run: |
           git add -A
           if git diff --cached --quiet; then
