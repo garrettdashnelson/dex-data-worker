@@ -1,0 +1,38 @@
+name: Fetch Dexcom Data
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install pydexcom
+        run: pip install pydexcom
+
+      - name: Run Dexcom script
+        run: python3 bin/fetch_dexcom.py
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit changes
+        run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Automated data run"
+            git push
