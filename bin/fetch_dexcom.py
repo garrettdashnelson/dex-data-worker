@@ -30,7 +30,7 @@ def fetch_and_save_glucose():
     os.makedirs('./data-exports', exist_ok=True)
     
     # Save to JSON file
-    output_path = os.path.join('../data-exports', 'latest.json')
+    output_path = os.path.join('./data-exports', 'latest.json')
     with open(output_path, 'w+') as f:
         json.dump(reading_data, f, indent=2)
 
