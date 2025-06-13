@@ -34,9 +34,6 @@ jobs:
 
       - name: Commit changes
         shell: bash
-
-      - name: Commit changes
         run: >
           git add -A &&
           (git diff --cached --quiet || (git commit -m "Automated data run" && git push))
-
