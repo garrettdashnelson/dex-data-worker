@@ -24,12 +24,14 @@ jobs:
       
       - name: Fetch menu data
         run: python bin/nutrislice.py
-      
-      - name: Commit and push changes
+   
+      - name: Configure Git
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add data-exports/menus.json
-          git diff --quiet --staged || git commit -m "Update menus.json [automated]"
-          git push
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
+      - name: Commit changes
+        shell: bash
+        run: >
+          git add -A &&
+          (git diff --cached --quiet || (git commit -m "Automated data run -- menus" && git push))
