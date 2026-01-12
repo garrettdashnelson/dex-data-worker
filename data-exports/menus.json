@@ -1,46 +1,46 @@
 {
   "franklin-ecc": [
     {
-      "date": "2026-01-05",
-      "food_name": "WG PizzaBoli"
+      "date": "2026-01-12",
+      "food_name": "Classic American Cheeseburger"
     },
     {
-      "date": "2026-01-06",
-      "food_name": "Chicken Nuggets"
+      "date": "2026-01-13",
+      "food_name": "Mashed Potato & Chicken Bowl"
     },
     {
-      "date": "2026-01-07",
-      "food_name": "Cheese Stuffed Breadsticks"
+      "date": "2026-01-14",
+      "food_name": "Beef Taco Meat"
     },
     {
-      "date": "2026-01-08",
-      "food_name": "Chicken Parmesan"
+      "date": "2026-01-15",
+      "food_name": "Rotini Pasta"
     },
     {
-      "date": "2026-01-09",
+      "date": "2026-01-16",
       "food_name": "Personal Galaxy Cheese Pizza"
     }
   ],
   "horace-mann": [
     {
-      "date": "2026-01-05",
-      "food_name": "WG PizzaBoli"
+      "date": "2026-01-12",
+      "food_name": "Classic American Cheeseburger"
     },
     {
-      "date": "2026-01-06",
-      "food_name": "Jumbo Whole Muscle Chicken Tenders"
+      "date": "2026-01-13",
+      "food_name": "Mashed Potato & Chicken Bowl"
     },
     {
-      "date": "2026-01-07",
-      "food_name": "Cheese Stuffed Breadsticks"
+      "date": "2026-01-14",
+      "food_name": "Beef Taco Meat"
     },
     {
-      "date": "2026-01-08",
-      "food_name": "Italian Chicken Parm Sandwich"
+      "date": "2026-01-15",
+      "food_name": "Rotini Pasta"
     },
     {
-      "date": "2026-01-09",
-      "food_name": "Muffin, Yogurt & Cheese Fun Lunch"
+      "date": "2026-01-16",
+      "food_name": "Nachos, Cheese, & Salsa Fun Lunch"
     }
   ]
 }
