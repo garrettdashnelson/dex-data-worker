@@ -1,46 +1,46 @@
 {
   "franklin-ecc": [
     {
-      "date": "2026-02-02",
-      "food_name": "Grilled Chicken Caesar Salad"
+      "date": "2026-02-09",
+      "food_name": "WG PizzaBoli"
     },
     {
-      "date": "2026-02-03",
-      "food_name": "Crispy Chicken Patty Sandwich"
+      "date": "2026-02-10",
+      "food_name": "Whole Grain French Toast Sticks"
     },
     {
-      "date": "2026-02-04",
-      "food_name": "Beef Taco Meat"
+      "date": "2026-02-11",
+      "food_name": "Chicken Parmesan"
     },
     {
-      "date": "2026-02-05",
-      "food_name": "Chicken Nuggets"
+      "date": "2026-02-12",
+      "food_name": "Chicken Pasta Alfredo"
     },
     {
-      "date": "2026-02-06",
+      "date": "2026-02-13",
       "food_name": "Personal Galaxy Cheese Pizza"
     }
   ],
   "horace-mann": [
     {
-      "date": "2026-02-02",
-      "food_name": "Grilled Chicken Caesar Salad"
+      "date": "2026-02-09",
+      "food_name": "WG PizzaBoli"
     },
     {
-      "date": "2026-02-03",
-      "food_name": "Chicken Patty Sandwich with Cheese"
+      "date": "2026-02-10",
+      "food_name": "Whole Grain French Toast Sticks"
     },
     {
-      "date": "2026-02-04",
-      "food_name": "Beef Taco Meat"
+      "date": "2026-02-11",
+      "food_name": "Chicken Parmesan"
     },
     {
-      "date": "2026-02-05",
-      "food_name": "Jumbo Whole Muscle Chicken Tenders"
+      "date": "2026-02-12",
+      "food_name": "Chicken Pasta Alfredo"
     },
     {
-      "date": "2026-02-06",
-      "food_name": "Bagel, Yogurt, & Sunbutter Fun Lunch"
+      "date": "2026-02-13",
+      "food_name": "Muffin, Yogurt & Cheese Fun Lunch"
     }
   ]
 }
