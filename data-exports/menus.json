@@ -1,46 +1,4 @@
 {
-  "franklin-ecc": [
-    {
-      "date": "2026-02-09",
-      "food_name": "WG PizzaBoli"
-    },
-    {
-      "date": "2026-02-10",
-      "food_name": "Whole Grain French Toast Sticks"
-    },
-    {
-      "date": "2026-02-11",
-      "food_name": "Chicken Parmesan"
-    },
-    {
-      "date": "2026-02-12",
-      "food_name": "Chicken Pasta Alfredo"
-    },
-    {
-      "date": "2026-02-13",
-      "food_name": "Personal Galaxy Cheese Pizza"
-    }
-  ],
-  "horace-mann": [
-    {
-      "date": "2026-02-09",
-      "food_name": "WG PizzaBoli"
-    },
-    {
-      "date": "2026-02-10",
-      "food_name": "Whole Grain French Toast Sticks"
-    },
-    {
-      "date": "2026-02-11",
-      "food_name": "Chicken Parmesan"
-    },
-    {
-      "date": "2026-02-12",
-      "food_name": "Chicken Pasta Alfredo"
-    },
-    {
-      "date": "2026-02-13",
-      "food_name": "Muffin, Yogurt & Cheese Fun Lunch"
-    }
-  ]
+  "franklin-ecc": [],
+  "horace-mann": []
 }
