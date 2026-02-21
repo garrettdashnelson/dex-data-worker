@@ -1,4 +1,46 @@
 {
-  "franklin-ecc": [],
-  "horace-mann": []
+  "franklin-ecc": [
+    {
+      "date": "2026-02-23",
+      "food_name": "Chicken Nuggets"
+    },
+    {
+      "date": "2026-02-24",
+      "food_name": "Seasoned Turkey Taco Meat"
+    },
+    {
+      "date": "2026-02-25",
+      "food_name": "BBQ Chicken Sandwich"
+    },
+    {
+      "date": "2026-02-26",
+      "food_name": "Classic American Cheeseburger"
+    },
+    {
+      "date": "2026-02-27",
+      "food_name": "Personal Galaxy Cheese Pizza"
+    }
+  ],
+  "horace-mann": [
+    {
+      "date": "2026-02-23",
+      "food_name": "Chicken Nuggets"
+    },
+    {
+      "date": "2026-02-24",
+      "food_name": "Seasoned Turkey Taco Meat"
+    },
+    {
+      "date": "2026-02-25",
+      "food_name": "BBQ Chicken Sandwich"
+    },
+    {
+      "date": "2026-02-26",
+      "food_name": "Classic American Cheeseburger"
+    },
+    {
+      "date": "2026-02-27",
+      "food_name": "Beef Hot Dog on Whole Wheat"
+    }
+  ]
 }
