@@ -1,46 +1,46 @@
 {
   "franklin-ecc": [
     {
-      "date": "2026-02-23",
+      "date": "2026-03-02",
+      "food_name": "WG PizzaBoli"
+    },
+    {
+      "date": "2026-03-03",
+      "food_name": "Chicken Fajitas"
+    },
+    {
+      "date": "2026-03-04",
+      "food_name": "Beef Taco Meat"
+    },
+    {
+      "date": "2026-03-05",
       "food_name": "Chicken Nuggets"
     },
     {
-      "date": "2026-02-24",
-      "food_name": "Seasoned Turkey Taco Meat"
-    },
-    {
-      "date": "2026-02-25",
-      "food_name": "BBQ Chicken Sandwich"
-    },
-    {
-      "date": "2026-02-26",
-      "food_name": "Classic American Cheeseburger"
-    },
-    {
-      "date": "2026-02-27",
+      "date": "2026-03-06",
       "food_name": "Personal Galaxy Cheese Pizza"
     }
   ],
   "horace-mann": [
     {
-      "date": "2026-02-23",
-      "food_name": "Chicken Nuggets"
+      "date": "2026-03-02",
+      "food_name": "WG PizzaBoli"
     },
     {
-      "date": "2026-02-24",
-      "food_name": "Seasoned Turkey Taco Meat"
+      "date": "2026-03-03",
+      "food_name": "Chicken Fajitas"
     },
     {
-      "date": "2026-02-25",
-      "food_name": "BBQ Chicken Sandwich"
+      "date": "2026-03-04",
+      "food_name": "Beef Taco Meat"
     },
     {
-      "date": "2026-02-26",
-      "food_name": "Classic American Cheeseburger"
+      "date": "2026-03-05",
+      "food_name": "Chicken Patty Sandwich with Cheese"
     },
     {
-      "date": "2026-02-27",
-      "food_name": "Beef Hot Dog on Whole Wheat"
+      "date": "2026-03-06",
+      "food_name": "Muffin, Yogurt & Cheese Fun Lunch"
     }
   ]
 }
