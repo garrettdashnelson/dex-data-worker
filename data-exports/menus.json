@@ -1,46 +1,46 @@
 {
   "franklin-ecc": [
     {
-      "date": "2026-03-02",
-      "food_name": "WG PizzaBoli"
+      "date": "2026-03-09",
+      "food_name": "Nachos, Cheese, & Salsa Fun Lunch"
     },
     {
-      "date": "2026-03-03",
-      "food_name": "Chicken Fajitas"
-    },
-    {
-      "date": "2026-03-04",
-      "food_name": "Beef Taco Meat"
-    },
-    {
-      "date": "2026-03-05",
+      "date": "2026-03-10",
       "food_name": "Chicken Nuggets"
     },
     {
-      "date": "2026-03-06",
+      "date": "2026-03-11",
+      "food_name": "Seasoned Turkey Taco Meat"
+    },
+    {
+      "date": "2026-03-12",
+      "food_name": "Italian Meatball Sub"
+    },
+    {
+      "date": "2026-03-13",
       "food_name": "Personal Galaxy Cheese Pizza"
     }
   ],
   "horace-mann": [
     {
-      "date": "2026-03-02",
-      "food_name": "WG PizzaBoli"
+      "date": "2026-03-09",
+      "food_name": "Nachos, Cheese, & Salsa Fun Lunch"
     },
     {
-      "date": "2026-03-03",
-      "food_name": "Chicken Fajitas"
+      "date": "2026-03-10",
+      "food_name": "Jumbo Whole Muscle Chicken Tenders"
     },
     {
-      "date": "2026-03-04",
-      "food_name": "Beef Taco Meat"
+      "date": "2026-03-11",
+      "food_name": "Seasoned Turkey Taco Meat"
     },
     {
-      "date": "2026-03-05",
-      "food_name": "Chicken Patty Sandwich with Cheese"
+      "date": "2026-03-12",
+      "food_name": "Italian Meatball Sub"
     },
     {
-      "date": "2026-03-06",
-      "food_name": "Muffin, Yogurt & Cheese Fun Lunch"
+      "date": "2026-03-13",
+      "food_name": "Beef Hot Dog on Whole Wheat"
     }
   ]
 }
