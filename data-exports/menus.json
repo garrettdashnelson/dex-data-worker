@@ -1,46 +1,46 @@
 {
   "franklin-ecc": [
     {
-      "date": "2026-03-16",
-      "food_name": "Crispy Chicken Patty Sandwich"
+      "date": "2026-03-23",
+      "food_name": "Grilled Chicken Caesar Salad"
     },
     {
-      "date": "2026-03-17",
-      "food_name": "Cheese Stuffed Breadsticks"
+      "date": "2026-03-24",
+      "food_name": "BBQ Chicken Sandwich"
     },
     {
-      "date": "2026-03-18",
-      "food_name": "Classic American Cheeseburger"
+      "date": "2026-03-25",
+      "food_name": "Chicken Nuggets"
     },
     {
-      "date": "2026-03-19",
-      "food_name": "Rotini Pasta"
+      "date": "2026-03-26",
+      "food_name": "Rotini Tossed in Italian Meat Sauce"
     },
     {
-      "date": "2026-03-20",
+      "date": "2026-03-27",
       "food_name": "Personal Galaxy Cheese Pizza"
     }
   ],
   "horace-mann": [
     {
-      "date": "2026-03-16",
-      "food_name": "Crispy Chicken Patty Sandwich"
+      "date": "2026-03-23",
+      "food_name": "Grilled Chicken Caesar Salad"
     },
     {
-      "date": "2026-03-17",
-      "food_name": "Cheese Stuffed Breadsticks"
+      "date": "2026-03-24",
+      "food_name": "BBQ Chicken Sandwich"
     },
     {
-      "date": "2026-03-18",
-      "food_name": "Classic American Cheeseburger"
+      "date": "2026-03-25",
+      "food_name": "Chicken Nuggets"
     },
     {
-      "date": "2026-03-19",
-      "food_name": "Rotini Pasta"
+      "date": "2026-03-26",
+      "food_name": "Rotini Tossed in Italian Meat Sauce"
     },
     {
-      "date": "2026-03-20",
-      "food_name": "Crispy Fish Sticks"
+      "date": "2026-03-27",
+      "food_name": "Mini Chicken Corn Dogs"
     }
   ]
 }
