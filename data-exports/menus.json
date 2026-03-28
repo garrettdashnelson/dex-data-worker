@@ -1,46 +1,46 @@
 {
   "franklin-ecc": [
     {
-      "date": "2026-03-23",
-      "food_name": "Grilled Chicken Caesar Salad"
+      "date": "2026-03-30",
+      "food_name": "Mashed Potato & Chicken Bowl"
     },
     {
-      "date": "2026-03-24",
-      "food_name": "BBQ Chicken Sandwich"
+      "date": "2026-03-31",
+      "food_name": "Chicken Parmesan"
     },
     {
-      "date": "2026-03-25",
-      "food_name": "Chicken Nuggets"
+      "date": "2026-04-01",
+      "food_name": "Beef Taco Meat"
     },
     {
-      "date": "2026-03-26",
-      "food_name": "Rotini Tossed in Italian Meat Sauce"
+      "date": "2026-04-02",
+      "food_name": "Crispy Chicken Patty Sandwich"
     },
     {
-      "date": "2026-03-27",
+      "date": "2026-04-03",
       "food_name": "Personal Galaxy Cheese Pizza"
     }
   ],
   "horace-mann": [
     {
-      "date": "2026-03-23",
-      "food_name": "Grilled Chicken Caesar Salad"
+      "date": "2026-03-30",
+      "food_name": "Mashed Potato & Chicken Bowl"
     },
     {
-      "date": "2026-03-24",
-      "food_name": "BBQ Chicken Sandwich"
+      "date": "2026-03-31",
+      "food_name": "Chicken Parmesan"
     },
     {
-      "date": "2026-03-25",
-      "food_name": "Chicken Nuggets"
+      "date": "2026-04-01",
+      "food_name": "Beef Taco Meat"
     },
     {
-      "date": "2026-03-26",
-      "food_name": "Rotini Tossed in Italian Meat Sauce"
+      "date": "2026-04-02",
+      "food_name": "Crispy Chicken Patty Sandwich"
     },
     {
-      "date": "2026-03-27",
-      "food_name": "Mini Chicken Corn Dogs"
+      "date": "2026-04-03",
+      "food_name": "Bagel, Yogurt & SunButter Fun Lunch"
     }
   ]
 }
