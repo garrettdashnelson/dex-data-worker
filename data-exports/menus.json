@@ -1,46 +1,4 @@
 {
-  "franklin-ecc": [
-    {
-      "date": "2026-04-13",
-      "food_name": "Classic American Cheeseburger"
-    },
-    {
-      "date": "2026-04-14",
-      "food_name": "Mashed Potato & Chicken Bowl"
-    },
-    {
-      "date": "2026-04-15",
-      "food_name": "BBQ Chicken Sandwich"
-    },
-    {
-      "date": "2026-04-16",
-      "food_name": "Chicken Pasta Alfredo"
-    },
-    {
-      "date": "2026-04-17",
-      "food_name": "Personal Galaxy Cheese Pizza"
-    }
-  ],
-  "horace-mann": [
-    {
-      "date": "2026-04-13",
-      "food_name": "Classic American Cheeseburger"
-    },
-    {
-      "date": "2026-04-14",
-      "food_name": "Mashed Potato & Chicken Bowl"
-    },
-    {
-      "date": "2026-04-15",
-      "food_name": "BBQ Chicken Sandwich"
-    },
-    {
-      "date": "2026-04-16",
-      "food_name": "Chicken Pasta Alfredo"
-    },
-    {
-      "date": "2026-04-17",
-      "food_name": "Muffin, Yogurt & Cheese Fun Lunch"
-    }
-  ]
+  "franklin-ecc": [],
+  "horace-mann": []
 }
