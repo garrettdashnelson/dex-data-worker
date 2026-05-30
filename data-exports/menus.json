@@ -1,38 +1,46 @@
 {
   "franklin-ecc": [
     {
-      "date": "2026-05-26",
-      "food_name": "Mashed Potato & Chicken Bowl"
-    },
-    {
-      "date": "2026-05-27",
+      "date": "2026-06-01",
       "food_name": "Chicken Nuggets"
     },
     {
-      "date": "2026-05-28",
-      "food_name": "Rotini Tossed in Italian Meat Sauce"
+      "date": "2026-06-02",
+      "food_name": "WG PizzaBoli"
     },
     {
-      "date": "2026-05-29",
+      "date": "2026-06-03",
+      "food_name": "Seasoned Turkey Taco Meat"
+    },
+    {
+      "date": "2026-06-04",
+      "food_name": "Rotini Pasta"
+    },
+    {
+      "date": "2026-06-05",
       "food_name": "Personal Galaxy Cheese Pizza"
     }
   ],
   "horace-mann": [
     {
-      "date": "2026-05-26",
-      "food_name": "Mashed Potato & Chicken Bowl"
+      "date": "2026-06-01",
+      "food_name": "Chicken Nuggets"
     },
     {
-      "date": "2026-05-27",
-      "food_name": "Crispy Chicken Patty Sandwich"
+      "date": "2026-06-02",
+      "food_name": "WG PizzaBoli"
     },
     {
-      "date": "2026-05-28",
-      "food_name": "Rotini Tossed in Italian Meat Sauce"
+      "date": "2026-06-03",
+      "food_name": "Seasoned Turkey Taco Meat"
     },
     {
-      "date": "2026-05-29",
-      "food_name": "Classic American Cheeseburger"
+      "date": "2026-06-04",
+      "food_name": "Rotini Pasta"
+    },
+    {
+      "date": "2026-06-05",
+      "food_name": "Bagel, Yogurt, & Sunbutter Fun Lunch"
     }
   ]
 }
