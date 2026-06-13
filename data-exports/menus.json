@@ -1,46 +1,30 @@
 {
   "franklin-ecc": [
     {
-      "date": "2026-06-08",
-      "food_name": "Mashed Potato & Chicken Bowl"
+      "date": "2026-06-15",
+      "food_name": "Cheese Stuffed Breadsticks"
     },
     {
-      "date": "2026-06-09",
-      "food_name": "Classic American Cheeseburger"
+      "date": "2026-06-16",
+      "food_name": "Nachos, Cheese, & Salsa Fun Lunch"
     },
     {
-      "date": "2026-06-10",
-      "food_name": "Grilled Chicken Caesar Salad"
-    },
-    {
-      "date": "2026-06-11",
-      "food_name": "Chicken Nuggets"
-    },
-    {
-      "date": "2026-06-12",
+      "date": "2026-06-17",
       "food_name": "Personal Galaxy Cheese Pizza"
     }
   ],
   "horace-mann": [
     {
-      "date": "2026-06-08",
-      "food_name": "Mashed Potato & Chicken Bowl"
+      "date": "2026-06-15",
+      "food_name": "Cheese Stuffed Breadsticks"
     },
     {
-      "date": "2026-06-09",
-      "food_name": "Classic American Cheeseburger"
+      "date": "2026-06-16",
+      "food_name": "Nachos, Cheese, & Salsa Fun Lunch"
     },
     {
-      "date": "2026-06-10",
-      "food_name": "Grilled Chicken Caesar Salad"
-    },
-    {
-      "date": "2026-06-11",
-      "food_name": "Chicken Patty Sandwich with Cheese"
-    },
-    {
-      "date": "2026-06-12",
-      "food_name": "Beef Hot Dog on Whole Wheat"
+      "date": "2026-06-17",
+      "food_name": "Muffin, Yogurt & Cheese Fun Lunch"
     }
   ]
 }
